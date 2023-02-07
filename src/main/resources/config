@@ -1,0 +1,10 @@
+BodySize = 1
+EngineSize = 1
+AccessorySize = 1
+CarSize = 1
+BodySupplier = 1
+EngineSupplier = 1
+AccessorySupplier = 1
+Workers = 1
+Dealers = 1
+Log = true
